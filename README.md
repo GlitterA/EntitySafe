@@ -20,7 +20,7 @@ en_core_web_trf 版本为3.8.0
 <h2 id="cqoJI">输入数据准备</h2>
 1、将RAG检索文档进行划分，存储为一个csv文件，其中每一行为一个文档，列名为document
 
-例如：![](https://cdn.nlark.com/yuque/0/2025/png/40383095/1749715104648-f5883b79-1aa7-42d8-9907-64d0f19d75fc.png)
+例如：![](example.png)
 
 【注】文档划分时单个文档长度大小不应高于512个token，本方案使用的是all-MiniLM-L6-v2进行检索文档的嵌入，请将模型文件（config.json等必要文件）放置在'./model/all-MiniLM-L6-v2'文件夹下
 
