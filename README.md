@@ -1,0 +1,2 @@
+# EntitySafe
+EntitySafe代码
