@@ -11,7 +11,8 @@ en_core_sci_scibert 版本为0.5.4
 
 en_core_web_trf 版本为3.8.0
 
-在.env文件中填写API_KEY和URL以及模型的名字__
+将.env.examlple文件改为.env
+在.env文件中填写API_KEY和URL以及模型的名字
 
 
 
